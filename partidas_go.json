@@ -1,0 +1,44 @@
+[
+  {
+    "torneo": "LGcup",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Ichiriki Ryo 9p",
+      "foto": "https://tu-sitio/players/ichiriki.jpg"
+    },
+    "blanco": {
+      "nombre": "Shin Minjun 9p",
+      "foto": "https://tu-sitio/players/shin_minjun.jpg"
+    },
+    "resultado": "W+R",
+    "enlace": "https://tu-sitio/sgf/lgcup_2026-01-15.sgf"
+  },
+  {
+    "torneo": "LGcup",
+    "fecha": "2026-01-14",
+    "negro": {
+      "nombre": "Shin Minjun 9p",
+      "foto": "https://tu-sitio/players/shin_minjun.jpg"
+    },
+    "blanco": {
+      "nombre": "Ichiriki Ryo 9p",
+      "foto": "https://tu-sitio/players/ichiriki.jpg"
+    },
+    "resultado": "B+R",
+    "enlace": "https://tu-sitio/sgf/lgcup_2026-01-14.sgf"
+  },
+  {
+    "torneo": "KoreanGSCaltexcup",
+    "fecha": "2026-01-09",
+    "negro": {
+      "nombre": "Lee Changho 9p",
+      "foto": "https://tu-sitio/players/lee_changho.jpg"
+    },
+    "blanco": {
+      "nombre": "Choi Jeong 9p",
+      "foto": "https://tu-sitio/players/choi_jeong.jpg"
+    },
+    "resultado": "W+3.5",
+    "enlace": "https://tu-sitio/sgf/gs_2026-01-09.sgf"
+  }
+]
