@@ -1,44 +1,787 @@
 [
-  {
+ {
     "torneo": "LGcup",
     "fecha": "2026-01-15",
     "negro": {
       "nombre": "Ichiriki Ryo 9p",
-      "foto": "https://tu-sitio/players/ichiriki.jpg"
+      "foto": ""
     },
     "blanco": {
       "nombre": "Shin Minjun 9p",
-      "foto": "https://tu-sitio/players/shin_minjun.jpg"
+      "foto": ""
     },
     "resultado": "W+R",
-    "enlace": "https://tu-sitio/sgf/lgcup_2026-01-15.sgf"
+    "enlace": ""
   },
   {
     "torneo": "LGcup",
     "fecha": "2026-01-14",
     "negro": {
       "nombre": "Shin Minjun 9p",
-      "foto": "https://tu-sitio/players/shin_minjun.jpg"
+      "foto": ""
     },
     "blanco": {
       "nombre": "Ichiriki Ryo 9p",
-      "foto": "https://tu-sitio/players/ichiriki.jpg"
+      "foto": ""
     },
     "resultado": "B+R",
-    "enlace": "https://tu-sitio/sgf/lgcup_2026-01-14.sgf"
+    "enlace": ""
+  },
+  {
+    "torneo": "LGcup",
+    "fecha": "2026-01-12",
+    "negro": {
+      "nombre": "Ichiriki Ryo 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Shin Minjun 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
   },
   {
     "torneo": "KoreanGSCaltexcup",
     "fecha": "2026-01-09",
     "negro": {
       "nombre": "Lee Changho 9p",
-      "foto": "https://tu-sitio/players/lee_changho.jpg"
+      "foto": ""
     },
     "blanco": {
       "nombre": "Choi Jeong 9p",
-      "foto": "https://tu-sitio/players/choi_jeong.jpg"
+      "foto": ""
     },
     "resultado": "W+3.5",
-    "enlace": "https://tu-sitio/sgf/gs_2026-01-09.sgf"
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanGSCaltexcup",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Shin Minjun 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kim Eunji 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanGSCaltexcup",
+    "fecha": "2026-01-07",
+    "negro": {
+      "nombre": "Yoo Changhyuk 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Mok Jinseok 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanMaximCup",
+    "fecha": "2026-01-13",
+    "negro": {
+      "nombre": "Hong Seongji 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Park Yeonghun 9p",
+      "foto": ""
+    },
+    "resultado": "W+2.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanMaximCup",
+    "fecha": "2026-01-13",
+    "negro": {
+      "nombre": "Na Hyun 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Lee Jihyun (m) 9p",
+      "foto": ""
+    },
+    "resultado": "W+0.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanMaximCup",
+    "fecha": "2026-01-12",
+    "negro": {
+      "nombre": "Kim Myounghoon 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Park Hamin 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanMaximCup",
+    "fecha": "2026-01-12",
+    "negro": {
+      "nombre": "Yun Junsang 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Park Junghwan 9p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanLeague",
+    "fecha": "2026-01-18",
+    "negro": {
+      "nombre": "Song Jihoon 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kwon Hyojin (m) 7p",
+      "foto": ""
+    },
+    "resultado": "W+0.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanLeague",
+    "fecha": "2026-01-18",
+    "negro": {
+      "nombre": "Kim Seongjae 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Oh Byeongwoo 5p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanLeague",
+    "fecha": "2026-01-18",
+    "negro": {
+      "nombre": "Kang Dongyun 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kim Junghyun 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanLeague",
+    "fecha": "2026-01-18",
+    "negro": {
+      "nombre": "Weon Seongjin 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Park Minkyu 9p",
+      "foto": ""
+    },
+    "resultado": "W+5.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "KoreanLeague",
+    "fecha": "2026-01-18",
+    "negro": {
+      "nombre": "Kang Seungmin 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Na Hyun 9p",
+      "foto": ""
+    },
+    "resultado": "B+2.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseKisei",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Kuwabara Itsuki 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Nakaonoda Tomomi 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseKisei",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Tsuji Hana 3p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Xiao Yuyang 3p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseMeijin",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Miura Taro 4p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Cho Chikun 9p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseMeijin",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Onishi Ryuhei 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Cho Chien 3p",
+      "foto": ""
+    },
+    "resultado": "B+3.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseMeijin",
+    "fecha": "2026-01-14",
+    "negro": {
+      "nombre": "Sada Atsushi 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Imamura Toshiya 9p",
+      "foto": ""
+    },
+    "resultado": "W+1.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseMeijin",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Adachi Toshimasa 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kataoka Satoshi 9p",
+      "foto": ""
+    },
+    "resultado": "W+0.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseHoninbo",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Iyama Yuta 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Hirata Tomoya 8p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseHoninbo",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Seki Kotaro 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Wu Baiyi 6p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseOza",
+    "fecha": "2026-01-14",
+    "negro": {
+      "nombre": "Hong Seokui 5p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Sonoda Yuichi 9p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseOza",
+    "fecha": "2026-01-12",
+    "negro": {
+      "nombre": "Mukai Chiaki 6p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Hirata Tomoya 8p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseOza",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Yamashita Keigo 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Terayama Rei 6p",
+      "foto": ""
+    },
+    "resultado": "B+2.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseOza",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Ohba Junya 8p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Otake Yu 7p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseOza",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Tanaka Kentaro 1p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Murakawa Daisuke 9p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTengen",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Yamashita Keigo 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Seki Kotaro 9p",
+      "foto": ""
+    },
+    "resultado": "W+1.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTengen",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Otake Yu 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Nishioka Masao 5p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTengen",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Fujisawa Rina 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Chen Boshao 1p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTengen",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Ikemoto Ryota 4p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kato Chie 4p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTengen",
+    "fecha": "2026-01-07",
+    "negro": {
+      "nombre": "Tanaka Koyu 5p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Yuki Satoshi 9p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseGosei",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Seto Taiki 8p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Shida Tatsuya 8p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseJudan",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Fujita Akihiko 8p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Fukuoka Kotaro 7p",
+      "foto": ""
+    },
+    "resultado": "B+1.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseJudan",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Koike Yoshihiro 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Hsu Chiayuan 9p",
+      "foto": ""
+    },
+    "resultado": "W+3.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseShinjinO",
+    "fecha": "2026-01-14",
+    "negro": {
+      "nombre": "Tanaka Kentaro 1p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kumaki Teruya 2p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseShinjinO",
+    "fecha": "2026-01-07",
+    "negro": {
+      "nombre": "Yahata Naoki 3p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Takahashi Suketasu 1p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseFemaleHoninbo",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Okada Yumiko 6p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kin En 4p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseFemaleHoninbo",
+    "fecha": "2026-01-07",
+    "negro": {
+      "nombre": "Taguchi Misei 2p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Muraoka Mika 4p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseFemaleMeijin",
+    "fecha": "2026-01-12",
+    "negro": {
+      "nombre": "Ueno Risa 3p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Xie Yimin 7p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseFemaleKisei",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Ueno Asami 6p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Ueno Risa 3p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KansaiKiinstPlace",
+    "fecha": "2026-01-15",
+    "negro": {
+      "nombre": "Omote Yuto 4p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Utsumi Koki 4p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "KansaiKiinstPlace",
+    "fecha": "2026-01-14",
+    "negro": {
+      "nombre": "Yata Naoki 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Nishi Takenobu 6p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "Senko1CupWomen",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Hoshiai Shiho 4p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Koyama Terumi 7p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "Senko1CupWomen",
+    "fecha": "2026-01-08",
+    "negro": {
+      "nombre": "Yoshihara Yukari 6p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Izawa Akino 5p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTeikeiCupWomen",
+    "fecha": "2026-01-10",
+    "negro": {
+      "nombre": "Koyama Terumi 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Kobayashi Izumi 7p",
+      "foto": ""
+    },
+    "resultado": "W+1.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTeikeiCupShunei",
+    "fecha": "2026-01-10",
+    "negro": {
+      "nombre": "Fukuoka Kotaro 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Yi Liao 5p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTeikeiCupShunei",
+    "fecha": "2026-01-10",
+    "negro": {
+      "nombre": "Hirose Yuichi 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Onishi Ryuhei 7p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "JapaneseTeikeiCupShunei",
+    "fecha": "2026-01-10",
+    "negro": {
+      "nombre": "Onishi Ryuhei 7p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Fukuoka Kotaro 7p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "ChineseTianyuan",
+    "fecha": "2026-01-19",
+    "negro": {
+      "nombre": "Liu Yuhang 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Huang Mingyu 8p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "ChineseTianyuan",
+    "fecha": "2026-01-19",
+    "negro": {
+      "nombre": "Yang Kaiwen 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Shi Yue 9p",
+      "foto": ""
+    },
+    "resultado": "B+1.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "ChineseTianyuan",
+    "fecha": "2026-01-17",
+    "negro": {
+      "nombre": "Fan Tingyu 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Yang Kaiwen 9p",
+      "foto": ""
+    },
+    "resultado": "W+2.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "ChineseTianyuan",
+    "fecha": "2026-01-17",
+    "negro": {
+      "nombre": "Huang Mingyu 8p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Li Zerui 7p",
+      "foto": ""
+    },
+    "resultado": "B+1.5",
+    "enlace": ""
+  },
+  {
+    "torneo": "ChineseTianyuan",
+    "fecha": "2026-01-17",
+    "negro": {
+      "nombre": "Yan Huan 8p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Liu Yuhang 9p",
+      "foto": ""
+    },
+    "resultado": "W+R",
+    "enlace": ""
+  },
+  {
+    "torneo": "ChineseWeifufangkaiCup",
+    "fecha": "2026-01-09",
+    "negro": {
+      "nombre": "Fan Tingyu 9p",
+      "foto": ""
+    },
+    "blanco": {
+      "nombre": "Zhou Hongyu 7p",
+      "foto": ""
+    },
+    "resultado": "B+R",
+    "enlace": ""
   }
 ]
+
