@@ -927,6 +927,200 @@
         ],
         "favorite": false,
         "done": false
+      },
+       "1": {
+        "games": [
+          {
+            "black": "Byun Sangil",
+            "white": "Dang Yifei",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hfi-gokifu-20260301-Byun_Sangil(?)-Dang_Yifei(?).html"
+          },
+          {
+            "black": "Park Minkyu",
+            "white": "Park Jinsol",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hfj-gokifu-20260301-Park_Minkyu(?)-Park_Jinsol(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "2": {
+        "games": [
+          {
+            "black": "Hoshiai Shiho",
+            "white": "Aoki Kikuyo",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hfk-gokifu-20260302-Hoshiai_Shiho(?)-Aoki_Kikuyo(?).html"
+          },
+          {
+            "black": "Choi Jeong",
+            "white": "Kim Myounghoon",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hfl-gokifu-20260302-Choi_Jeong(?)-Kim_Myounghoon(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      }
+    },
+    "febrero": {
+      "16": {
+        "games": [
+          {
+            "black": "Yoda Norimoto",
+            "white": "Okuda Aya",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hey-gokifu-20260216-Yoda_Norimoto(?)-Okuda_Aya(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "17": {
+        "games": [
+          {
+            "black": "Kang Yootaek",
+            "white": "Park Jungwhan",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hf1-gokifu-20260217-Kang_Yootaek(?)-Park_Jungwhan(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "19": {
+        "games": [
+          {
+            "black": "Hoshiai Shiho",
+            "white": "Umezawa Yukari",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hf2-gokifu-20260219-Hoshiai_Shiho(?)-Umezawa_Yukari(?).html"
+          },
+          {
+            "black": "Ida Athushi",
+            "white": "Shibano Toramaru",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hf3-gokifu-20260219-Ida_Athushi(?)-Shibano_Toramaru(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "20": {
+        "games": [
+          {
+            "black": "Park Byeongkyu",
+            "white": "Seo Bongsoo",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hf4-gokifu-20260220-Park_Byeongkyu(?)-Seo_Bongsoo(?).html"
+          },
+          {
+            "black": "Mok Jinseok",
+            "white": "Yun Hyunseok",
+            "result": "B+5.5",
+            "sgf": "http://gokifu.com/s/3hf5-gokifu-20260220-Mok_Jinseok(?)-Yun_Hyunseok(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "23": {
+        "games": [
+          {
+            "black": "Xiao Zhenghao",
+            "white": "Lin Shuyang",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hf7-gokifu-20260223-Xiao_Zhenghao(?)-Lin_Shuyang(?).html"
+          },
+          {
+            "black": "Park Minkyu",
+            "white": "Kim Seongjae",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hf8-gokifu-20260223-Park_Minkyu(?)-Kim_Seongjae(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "24": {
+        "games": [
+          {
+            "black": "Park Jinsol",
+            "white": "Lee Changho",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hfa-gokifu-20260224-Park_Jinsol(?)-Lee_Changho(?).html"
+          },
+          {
+            "black": "Shin Minjun",
+            "white": "Baek Chanhee",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hfb-gokifu-20260224-Shin_Minjun(?)-Baek_Chanhee(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "25": {
+        "games": [
+          {
+            "black": "An Joyeong",
+            "white": "Kim Cheayoung",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hfc-gokifu-20260225-An_Joyeong(?)-Kim_Cheayoung(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "26": {
+        "games": [
+          {
+            "black": "Ryu Shikun",
+            "white": "Mok Jinseok",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hfd-gokifu-20260226-Ryu_Shikun(?)-Mok_Jinseok(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "27": {
+        "games": [
+          {
+            "black": "Kim Seungjun",
+            "white": "Lee Changho",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hfe-gokifu-20260227-Kim_Seungjun(?)-Lee_Changho(?).html"
+          },
+          {
+            "black": "Han Chongjin",
+            "white": "Kim Cheayoung",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hff-gokifu-20260227-Han_Chongjin(?)-Kim_Cheayoung(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "28": {
+        "games": [
+          {
+            "black": "Fujisawa Rina",
+            "white": "Ida Athushi",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hfg-gokifu-20260228-Fujisawa_Rina(?)-Ida_Athushi(?).html"
+          },
+          {
+            "black": "Byun Sangil",
+            "white": "Park Minkyu",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hfh-gokifu-20260228-Byun_Sangil(?)-Park_Minkyu(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
       }
     }
   },
