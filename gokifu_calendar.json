@@ -1302,6 +1302,170 @@
         "favorite": false,
         "done": false
       
+      },
+       "2": {
+        "games": [
+          {
+            "black": "Wang Yuanjun",
+            "white": "Lin Shuyang",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hdy-gokifu-20260202-Wang_Yuanjun(?)-Lin_Shuyang(?).html"
+          },
+          {
+            "black": "Shibano Toramaru",
+            "white": "Kono Rin",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdz-gokifu-20260202-Shibano_Toramaru(?)-Kono_Rin(?).html"
+          },
+          {
+            "black": "Iyama Yuuta",
+            "white": "Park Jungwhan",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3he0-gokifu-20260202-Iyama_Yuuta(?)-Park_Jungwhan(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "3": {
+        "games": [
+          {
+            "black": "Yoda Norimoto",
+            "white": "Liu Xiaoguang",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3he2-gokifu-20260203-Yoda_Norimoto(?)-Liu_Xiaoguang(?).html"
+          },
+          {
+            "black": "Lee Wonyoung",
+            "white": "Park Yeonghun",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3he3-gokifu-20260203-Lee_Wonyoung(?)-Park_Yeonghun(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "4": {
+        "games": [
+          {
+            "black": "Liu Xiaoguang",
+            "white": "Yoo Changhyuk",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3he4-gokifu-20260204-Liu_Xiaoguang(?)-Yoo_Changhyuk(?).html"
+          },
+          {
+            "black": "Shin Jinseo",
+            "white": "Iyama Yuuta",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3he5-gokifu-20260204-Shin_Jinseo(?)-Iyama_Yuuta(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "5": {
+        "games": [
+          {
+            "black": "Kobayashi Koichi",
+            "white": "Yoo Changhyuk",
+            "result": "W+12.5",
+            "sgf": "http://gokifu.com/s/3he6-gokifu-20260205-Kobayashi_Koichi(?)-Yoo_Changhyuk(?).html"
+          },
+          {
+            "black": "Kudo Norio",
+            "white": "Umezawa Yukari",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3he7-gokifu-20260205-Kudo_Norio(?)-Umezawa_Yukari(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      }
+    },
+    "enero": {
+      "29": {
+        "games": [
+          {
+            "black": "Umezawa Yukari",
+            "white": "Nakazawa Ayako",
+            "result": "B+0.5",
+            "sgf": "http://gokifu.com/s/3hdi-gokifu-20260129-Umezawa_Yukari(?)-Nakazawa_Ayako(?).html"
+          },
+          {
+            "black": "Shuto Shun",
+            "white": "Yoda Norimoto",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdj-gokifu-20260129-Shuto_Shun(?)-Yoda_Norimoto(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "30": {
+        "games": [
+          {
+            "black": "Na Hyun",
+            "white": "Lee Changseok",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdp-gokifu-20260130-Na_Hyun(?)-Lee_Changseok(?).html"
+          },
+          {
+            "black": "Kim Hyeongwoo",
+            "white": "Kim Seongjae",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdq-gokifu-20260130-Kim_Hyeongwoo(?)-Kim_Seongjae(?).html"
+          },
+          {
+            "black": "Li Qincheng",
+            "white": "Ding Hao",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hdr-gokifu-20260130-Li_Qincheng(?)-Ding_Hao(?).html"
+          },
+          {
+            "black": "Yang Dingxin",
+            "white": "Gu Zihao",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hds-gokifu-20260130-Yang_Dingxin(?)-Gu_Zihao(?).html"
+          },
+          {
+            "black": "Yang Kaiwen",
+            "white": "Peng Liyao",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdt-gokifu-20260130-Yang_Kaiwen(?)-Peng_Liyao(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "31": {
+        "games": [
+          {
+            "black": "Yang Dingxin",
+            "white": "Yang Kaiwen",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdu-gokifu-20260131-Yang_Dingxin(?)-Yang_Kaiwen(?).html"
+          },
+          {
+            "black": "Fan Yin",
+            "white": "Li Qincheng",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdv-gokifu-20260131-Fan_Yin(?)-Li_Qincheng(?).html"
+          },
+          {
+            "black": "Gu Zihao",
+            "white": "Peng Liyao",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hdw-gokifu-20260131-Gu_Zihao(?)-Peng_Liyao(?).html"
+          },
+          {
+            "black": "Kang Dongyun",
+            "white": "Kim Myounghoon",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hdx-gokifu-20260131-Kang_Dongyun(?)-Kim_Myounghoon(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
       }
     }
   },
