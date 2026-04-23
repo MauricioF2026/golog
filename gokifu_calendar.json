@@ -1121,6 +1121,186 @@
         ],
         "favorite": false,
         "done": false
+      },
+        "6": {
+        "games": [
+          {
+            "black": "Yoo Changhyuk",
+            "white": "Yu Bin",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3he8-gokifu-20260206-Yoo_Changhyuk(?)-Yu_Bin(?).html"
+          },
+          {
+            "black": "Ichiriki Ryo",
+            "white": "Shin Jinseo",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3he9-gokifu-20260206-Ichiriki_Ryo(?)-Shin_Jinseo(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "8": {
+        "games": [
+          {
+            "black": "Kang Yootaek",
+            "white": "Kim Junghyun",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3heh-gokifu-20260208-Kang_Yootaek(?)-Kim_Junghyun(?).html"
+          },
+          {
+            "black": "Kim Myounghoon",
+            "white": "Shin Minjun",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hei-gokifu-20260208-Kim_Myounghoon(?)-Shin_Minjun(?).html"
+          },
+          {
+            "black": "Yang Dingxin",
+            "white": "Kim Seongjae",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hej-gokifu-20260208-Yang_Dingxin(?)-Kim_Seongjae(?).html"
+          },
+          {
+            "black": "Hong Seongji",
+            "white": "Park Minkyu",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hek-gokifu-20260208-Hong_Seongji(?)-Park_Minkyu(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "9": {
+        "games": [
+          {
+            "black": "Ko Iso",
+            "white": "Ichiriki Ryo",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hel-gokifu-20260209-Ko_Iso(?)-Ichiriki_Ryo(?).html"
+          },
+          {
+            "black": "Choi Myeonghun",
+            "white": "Oh Yujin",
+            "result": "W+3.5",
+            "sgf": "http://gokifu.com/s/3hem-gokifu-20260209-Choi_Myeonghun(?)-Oh_Yujin(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "10": {
+        "games": [
+          {
+            "black": "Choi Jeong",
+            "white": "Lee Seongjae",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hen-gokifu-20260210-Choi_Jeong(?)-Lee_Seongjae(?).html"
+          },
+          {
+            "black": "Kim Junghyun",
+            "white": "Shin Jinseo",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hep-gokifu-20260210-Kim_Junghyun(?)-Shin_Jinseo(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "11": {
+        "games": [
+          {
+            "black": "Mok Jinseok",
+            "white": "Yun Hyunseok",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3heq-gokifu-20260211-Mok_Jinseok(?)-Yun_Hyunseok(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "12": {
+        "games": [
+          {
+            "black": "Lee Changho",
+            "white": "Han Chongjin",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3heu-gokifu-20260212-Lee_Changho(?)-Han_Chongjin(?).html"
+          },
+          {
+            "black": "Shibano Toramaru",
+            "white": "Kono Rin",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3her-gokifu-20260212-Shibano_Toramaru(?)-Kono_Rin(?).html"
+          },
+          {
+            "black": "Hoshiai Shiho",
+            "white": "Koyama Terumi",
+            "result": "B+2.5",
+            "sgf": "http://gokifu.com/s/3hes-gokifu-20260212-Hoshiai_Shiho(?)-Koyama_Terumi(?).html"
+          },
+          {
+            "black": "Kim Cheayoung",
+            "white": "Yoo Changhyuk",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3het-gokifu-20260212-Kim_Cheayoung(?)-Yoo_Changhyuk(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "13": {
+        "games": [
+          {
+            "black": "Kibe Natsuki",
+            "white": "Kobayashi Izumi",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hev-gokifu-20260213-Kibe_Natsuki(?)-Kobayashi_Izumi(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "14": {
+        "games": [
+          {
+            "black": "Hirata Tomoya",
+            "white": "Ida Athushi",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hew-gokifu-20260214-Hirata_Tomoya(?)-Ida_Athushi(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "15": {
+        "games": [
+          {
+            "black": "Shibano Toramaru",
+            "white": "Ichiriki Ryo",
+            "result": "W+R",
+            "sgf": "http://gokifu.com/s/3hex-gokifu-20260215-Shibano_Toramaru(?)-Ichiriki_Ryo(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
+      },
+      "16": {
+        "games": [
+          {
+            "black": "Yu Zhengqi",
+            "white": "Hirata Tomoya",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hez-gokifu-20260216-Yu_Zhengqi(?)-Hirata_Tomoya(?).html"
+          },
+          {
+            "black": "Kim Myounghoon",
+            "white": "Cho Hanseung",
+            "result": "B+R",
+            "sgf": "http://gokifu.com/s/3hf0-gokifu-20260216-Kim_Myounghoon(?)-Cho_Hanseung(?).html"
+          }
+        ],
+        "favorite": false,
+        "done": false
       }
     }
   },
