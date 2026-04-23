@@ -1,6 +1,6 @@
 {
   "2025": {
-    "0": {
+    "enero": {
       "19": {
         "title": "4 Ronda Torneo INI vs Christian Gutierrez (18K)",
         "link": "https://ejemplo.com/torneo-enero",
@@ -17,7 +17,7 @@
         "done": true
       }
     },
-    "1": {
+    "febrero": {
       "19": {
         "title": "4 Ronda Torneo INI",
         "link": "https://ejemplo.com/torneo-febrero",
@@ -25,7 +25,7 @@
         "done": true
       }
     },
-    "2": {
+    "marzo": {
       "5": {
         "title": "Torneo de Baduk",
         "link": "https://ejemplo.com/torneo-marzo",
@@ -39,7 +39,7 @@
         "done": false
       }
     },
-    "3": {
+    "abril": {
       "5": {
         "title": "Primer torneo del circuito CMM",
         "link": "https://igochile.cl/igochile2/abierto-de-santiago/",
@@ -76,119 +76,17 @@
           "https://via.placeholder.com/400x250?text=Venta+MAX+M+1"
         ]
       }
-    }
+    } 
   },
-
   "2026": {
-    "0": {
-      "9": {
-        "title": "4 Ronda Torneo INI vs Christian Gutierrez (18K)",
-        "link": "https://ejemplo.com/torneo-enero",
-        "favorite": false,
-        "done": true,
-        "photos": [
-          "https://media.gettyimages.com/id/94870455/es/foto/north-korea-north-korean-students-play-a-game-of-baduk-in-pyongyangs-mangyongdae-schoolchildrens.jpg?s=612x612&w=0&k=20&c=YGJYu-PQWF89DI5j-_MJUaOYCdkbK61lusQmYa3taAE=",
-          "https://media.gettyimages.com/id/752025677/es/foto/a-boy-playing-the-game-of-go-with-dad-and-mom.jpg?s=612x612&w=0&k=20&c=uqOxV_oCl3amGNFtSuTZ5UUOYuDsnQWdCKPgrQujdZk="
-        ]
-      },
-      "2": {
-        "title": "Reunión importante el 20 de enero",
-        "favorite": false,
-        "done": true
-      }
-    },
-
-    "2": {
-      "29": {
+    "abril": {
+      "16": {
         "games": [
           {
-            "black": "Lee Wonyoung",
-            "white": "An Sungjoon",
+            "black": "Yoda Norimoto",
+            "white": "Umezawa Yukari",
             "result": "B+R",
-            "sgf": "http://gokifu.com/s/3hhe-gokifu-20260329-Lee_Wonyoung(?)-An_Sungjoon(?).html"
-          }
-        ],
-        "favorite": false,
-        "done": false
-      },
-      "30": {
-        "games": [
-          {
-            "black": "Yamashita Keigo",
-            "white": "Ida Athushi",
-            "result": "B+R",
-            "sgf": "http://gokifu.com/s/3hhg-gokifu-20260330-Yamashita_Keigo(?)-Ida_Athushi(?).html"
-          }
-        ],
-        "favorite": false,
-        "done": false
-      }
-    },
-
-    "3": {
-      "1": {
-        "games": [
-          {
-            "black": "Kang Yootaek",
-            "white": "Kim Myounghoon",
-            "result": "W+R",
-            "sgf": "http://gokifu.com/s/3hhh-gokifu-20260401-Kang_Yootaek(?)-Kim_Myounghoon(?).html"
-          },
-          {
-            "black": "Choi Jeong",
-            "white": "An Sungjoon",
-            "result": "W+R",
-            "sgf": "http://gokifu.com/s/3hhi-gokifu-20260401-Choi_Jeong(?)-An_Sungjoon(?).html"
-          }
-        ],
-        "favorite": false,
-        "done": false
-      },
-
-      "2": {
-        "games": [
-          {
-            "black": "Hoshiai Shiho",
-            "white": "So Yokoku",
-            "result": "W+R",
-            "sgf": "http://gokifu.com/s/3hhj-gokifu-20260402-Hoshiai_Shiho(?)-So_Yokoku(?).html"
-          },
-          {
-            "black": "Byun Sangil",
-            "white": "Park Jungwhan",
-            "result": "B+R",
-            "sgf": "http://gokifu.com/s/3hhk-gokifu-20260402-Byun_Sangil(?)-Park_Jungwhan(?).html"
-          }
-        ],
-        "favorite": false,
-        "done": false
-      },
-
-      "3": {
-        "games": [
-          {
-            "black": "Park Minkyu",
-            "white": "An Sungjoon",
-            "result": "W+R",
-            "sgf": "http://gokifu.com/s/3hhl-gokifu-20260403-Park_Minkyu(?)-An_Sungjoon(?).html"
-          },
-          {
-            "black": "Kim Yeongsam",
-            "white": "Choi Myeonghun",
-            "result": "W+R",
-            "sgf": "http://gokifu.com/s/3hhm-gokifu-20260403-Kim_Yeongsam(?)-Choi_Myeonghun(?).html"
-          },
-          {
-            "black": "Park Jungwhan",
-            "white": "Kang Dongyun",
-            "result": "B+R",
-            "sgf": "http://gokifu.com/s/3hhn-gokifu-20260403-Park_Jungwhan(?)-Kang_Dongyun(?).html"
-          },
-          {
-            "black": "Han Chongjin",
-            "white": "An Joyeong",
-            "result": "W+R",
-            "sgf": "http://gokifu.com/s/3hhp-gokifu-20260403-Han_Chongjin(?)-An_Joyeong(?).html"
+            "sgf": "http://gokifu.com/s/3hi6-gokifu-20260416-Yoda_Norimoto(?)-Umezawa_Yukari(?).html"
           }
         ],
         "favorite": false,
@@ -196,6 +94,5 @@
       }
     }
   },
-
   "2027": {}
 }
