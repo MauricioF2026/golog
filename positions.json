@@ -1,15 +1,44 @@
+estaria bien esta salida?
 {
-  "card-1": {
-    "title": "Posición 1",
-    "description": "Ejemplo generado",
+  "card-1777697023216": {
+    "title": "Nueva posición",
+    "description": "Creada desde editor",
     "size": 19,
     "variations": [
       {
-        "name": "Base",
+        "name": "Variante 1",
         "comment": "",
         "stones": [
-          { "x": 4, "y": 4, "c": "b" },
-          { "x": 16, "y": 16, "c": "w" }
+          {
+            "x": 3,
+            "y": 3,
+            "c": "b"
+          },
+          {
+            "x": 2,
+            "y": 4,
+            "c": "b"
+          },
+          {
+            "x": 4,
+            "y": 2,
+            "c": "b"
+          },
+          {
+            "x": 4,
+            "y": 3,
+            "c": "w"
+          },
+          {
+            "x": 5,
+            "y": 2,
+            "c": "w"
+          },
+          {
+            "x": 3,
+            "y": 4,
+            "c": "w"
+          }
         ]
       }
     ]
