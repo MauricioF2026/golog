@@ -1,0 +1,17 @@
+{
+  "card-1": {
+    "title": "Posición 1",
+    "description": "Ejemplo generado",
+    "size": 19,
+    "variations": [
+      {
+        "name": "Base",
+        "comment": "",
+        "stones": [
+          { "x": 4, "y": 4, "c": "b" },
+          { "x": 16, "y": 16, "c": "w" }
+        ]
+      }
+    ]
+  }
+}
